@@ -1,0 +1,24 @@
+Inserindo 3 elementos em 3 posicoes diferentes
+o programa deve retornar as seguintes respostas com as seguintes entradas:
+
+3
+1
+0
+2
+1
+3
+2
+1
+1
+2
+1
+1
+6
+3
+5
+
+Elemento na posicao 1 = 2
+Tamanho da lista = 2
+Elemento na posicao 6 = 0
+Opcao invalida, digite uma opcao valida
+Tamanho da lista = 2
